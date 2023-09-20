@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.subtext-title{
+   font-size: large;
+   font-weight: bolder;
+}
